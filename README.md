@@ -62,9 +62,9 @@ ReDoc: http://127.0.0.1:8000/redoc
 License
 
 This project is licensed under the MIT License.
+![fastapi_swagger](https://github.com/user-attachments/assets/f2be29e9-216f-4e66-89a7-c4f126b27a77)
 
 Author
 
-Developed by [jarulraj2![fastapi_swagger](https://github.com/user-attachments/assets/4a1cc58f-336f-4b00-9e95-8e0f56b3f8b6)
-]
+Developed by [jarulraj2]
 
